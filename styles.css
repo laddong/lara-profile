@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+    
+}
+.pro-img {
+    width: 450px;
+    height: 450px;
+    border: rgb(255, 99, 99) 10px solid;
+    border-radius: 50%;
+    
+}
+.pro-text {
+    color: mediumpurple;
+    font-size: 25px;
+}
